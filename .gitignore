@@ -2,3 +2,5 @@
 govuk-design/
 *.xlsx
 *.ods
+*.json
+*.geojson
